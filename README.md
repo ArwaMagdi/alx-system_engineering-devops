@@ -1,1 +1,1 @@
-the 0-hello_world file contains a script that prints “Hello, World”, followed by a new line to the standard output
+in this repository I will be sharing my shell learning journey
