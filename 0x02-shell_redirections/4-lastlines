@@ -1,2 +1,2 @@
 #!/bin/bash
-sshd:x:105:65534::/run/sshd:/usr/sbin/nologin mysql:x:106:107:MySQL Server,,,:/var/lib/mysql/:/bin/false
+tail /etc/passwd
